@@ -1,5 +1,5 @@
 """
-VERY OBVIOUS FOR THE SNORT
+VERY OBVIOUS FOR SNORT
 """
 
 from scapy.all import IP, ICMP, fragment, send
